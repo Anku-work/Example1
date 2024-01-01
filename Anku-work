@@ -1,2 +1,6 @@
 $ git remote add origin <https://github.com/Anku-work/Example1.git>
 $ git push --set-upstream origin master
+$ git checkout<Branch1>
+$git pull
+$git branch
+
